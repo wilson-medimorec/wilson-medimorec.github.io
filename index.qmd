@@ -48,7 +48,7 @@ listing:
 }
 </style>
 
-The Wilson-Medimorec MIND Lab is a [collaborative research group](https://www.themindlab.uk/about.html) co-led by Dr Christopher Wilson and Dr Srdan Medimorec, who are based in the Department of Psychology at Teesside University. The lab’s work is organised into two primary research streams, each led by a Principal Investigator.
+The Wilson-Medimorec MIND Research Lab is a [collaborative research group](https://www.themindlabresearch.org/about.html) co-led by Dr Christopher Wilson and Dr Srdan Medimorec, who are based in the Department of Psychology at Teesside University. The lab’s work is organised into two primary research streams, each led by a Principal Investigator.
 
 ::: columns
 ::: {.column width="50%"}

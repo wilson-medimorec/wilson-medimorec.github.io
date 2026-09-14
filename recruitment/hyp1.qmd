@@ -13,7 +13,7 @@ status: open
 study-location: "Psychology Department at Teesside University"
 title: "The role of working memory and response inhibition in economic decision making"
 image: "../images/decision_making.png"
-footer: "<a href='/'>www.themindlab.uk</a>" 
+footer: "<a href='/'>www.themindresearchlab.org</a>" 
 ---
 
 ## Participants needed! {.smaller}

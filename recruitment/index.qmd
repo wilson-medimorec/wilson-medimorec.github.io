@@ -1,5 +1,5 @@
 ---
-title: "Taking part in psychology research at the MIND Lab"
+title: "Taking part in psychology research at the Lab"
 toc: true
 #listing:
  # - id: recruitment

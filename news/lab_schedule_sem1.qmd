@@ -10,4 +10,4 @@ news-date: 2025-09-16
 ![](../images/calendar.png){style="display: block; margin: 0 auto; width:50%" }
 The lab meeting schedule for Semester 1 of the 2025/2026 academic year has been published. The seminars will cover a range of topics related to research training in cognitive psychology and neuroscience, including introductions to functional near-infrared spectroscopy (fNIRS) and eye-tracking, as well as workshops on designing experiments with OpenSesame and using the OpenScience Framework (OSF) for research management.
 
-The first meeting is scheduled for October 2nd, 2025 at 2pm (room TBC), with subsequent meetings planned throughout the semester. The full schedule is accessible via this [link](../info/lab_schedule.html) (www.themindlab.uk/info/lab_schedule.html).
+The first meeting is scheduled for October 2nd, 2025 at 2pm (room TBC), with subsequent meetings planned throughout the semester. The full schedule is accessible via this [link](../info/lab_schedule.html) (www.themindresearchlab.org/info/lab_schedule.html).

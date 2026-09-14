@@ -6,7 +6,7 @@ author: Christopher J Wilson
 format: 
   revealjs:
     transition: slide
-    footer: "<a href=https://www.themindlab.uk> www.themindlab.uk </a>"
+    footer: "<a href=https://www.themindresearchlab.org> www.themindresearchlab.org </a>"
     header-logo: "../../assets/mind_logo_medium.png"
     logo: "../../assets/tulogo.jpg"
     width: 1280
@@ -19,11 +19,11 @@ filters:
 
 ## Aims of this talk
 
--   To outline a developing research programme on the cognitive neuroscience of gambling harms
+- To outline a developing research programme on the cognitive neuroscience of gambling harms
 
--   To explore a currently active project on the role of social identity and the normalisation of gambling in sports groups
+- To explore a currently active project on the role of social identity and the normalisation of gambling in sports groups
 
--   To discuss some planned research and future directions
+- To discuss some planned research and future directions
 
 ::: notes
 I was originally going to talk about a single project which is currently ongoing.
@@ -39,41 +39,41 @@ While I will still talk about this, I thought it might be more suitable for this
 
 ## The regulatory context
 
--   The failure of "soft friction"
+- The failure of "soft friction"
 
--   Cognitive knowledge is used for exploitative purposes - could be used positively
+- Cognitive knowledge is used for exploitative purposes - could be used positively
 
--   "Self-exclusion" failure and cue reactivity
+- "Self-exclusion" failure and cue reactivity
 
--   Need for behavioural measures of harm that assess risk-taking behaviour
+- Need for behavioural measures of harm that assess risk-taking behaviour
 
 ::: notes
--   **Example A: The Failure of "Soft Friction" (The "Pop-Up" Problem)**
+- **Example A: The Failure of "Soft Friction" (The "Pop-Up" Problem)**
 
-    -   **The Evidence:** Use the **Gamesys** and **Petfre (Betfred)** enforcement cases from the UKGC bulletins. These operators used "soft" interactions (like emails or pop-ups) which players simply ignored while continuing to lose thousands of pounds .
+  - **The Evidence:** Use the **Gamesys** and **Petfre (Betfred)** enforcement cases from the UKGC bulletins. These operators used "soft" interactions (like emails or pop-ups) which players simply ignored while continuing to lose thousands of pounds .
 
-    -   **The Rationale Point:** "Policy currently relies on 'soft friction'—asking people to stop. The regulatory data proves this fails because the 'hot' cognitive state (the urge) overrides the intervention. We need neuroscience to design 'hard friction' that actually engages the prefrontal cortex."
+  - **The Rationale Point:** "Policy currently relies on 'soft friction'—asking people to stop. The regulatory data proves this fails because the 'hot' cognitive state (the urge) overrides the intervention. We need neuroscience to design 'hard friction' that actually engages the prefrontal cortex."
 
-    **Example B: "Losses Disguised as Wins" (The Cognitive Exploit)**
+  **Example B: "Losses Disguised as Wins" (The Cognitive Exploit)**
 
-    -   **The Evidence:** The UKGC "Safer by Design" mandate banned features where a player loses money (e.g., 50p return on a £1 bet) but the machine plays celebratory music .
+  - **The Evidence:** The UKGC "Safer by Design" mandate banned features where a player loses money (e.g., 50p return on a £1 bet) but the machine plays celebratory music .
 
-    -   **The Rationale Point:** "Gambling products are engineered to exploit specific neural errors. 'Losses Disguised as Wins' trick the striatum into releasing dopamine during a financial loss. My programme investigates how to reverse-engineer these exploits."
+  - **The Rationale Point:** "Gambling products are engineered to exploit specific neural errors. 'Losses Disguised as Wins' trick the striatum into releasing dopamine during a financial loss. My programme investigates how to reverse-engineer these exploits."
 
-    **Example C: The "Self-Exclusion" Failure (Cue-Reactivity)**
+  **Example C: The "Self-Exclusion" Failure (Cue-Reactivity)**
 
-    -   **The Evidence:** Operators have been fined for sending marketing emails to self-excluded players. This acts as a "hot cue" that triggers immediate craving and relapse, bypassing the player's "cool" pre-commitment .
+  - **The Evidence:** Operators have been fined for sending marketing emails to self-excluded players. This acts as a "hot cue" that triggers immediate craving and relapse, bypassing the player's "cool" pre-commitment .
 
-    -   **The Rationale Point:** "This isn't just a marketing error; it’s a 'cue-reactivity' failure. We are using fNIRS to map exactly how these digital triggers hijack the brain's control systems."
+  - **The Rationale Point:** "This isn't just a marketing error; it’s a 'cue-reactivity' failure. We are using fNIRS to map exactly how these digital triggers hijack the brain's control systems."
 :::
 
 ## The social context {background-image="../../images/gambling_ads.jpg" background-opacity="0.1"}
 
--   Increasing prevalence of gambling advertisement
+- Increasing prevalence of gambling advertisement
 
--   Normalisation (Norm-congruence) of gambling as a part of sports engagement [@duggan2022; @jetten2017]
+- Normalisation (Norm-congruence) of gambling as a part of sports engagement [@duggan2022; @jetten2017]
 
--   The symbolic construction of sports betting [@lopez-gonzalez2021]
+- The symbolic construction of sports betting [@lopez-gonzalez2021]
 
 ::: notes
 gambling has started to become norm-congruent behaviour within these social groups, which in-turn makes it an acceptable, or even expected, behaviour for those who want to see themselves as a prototypical group member (Jetten et al., 2017).
@@ -81,11 +81,11 @@ gambling has started to become norm-congruent behaviour within these social grou
 
 ## The research silos
 
--   Recent review of interventions for treatment of harmful gambling found 8 studies, all of which were retrospective - no experimental work [@seel2024]
+- Recent review of interventions for treatment of harmful gambling found 8 studies, all of which were retrospective - no experimental work [@seel2024]
 
--   We can identify neural deficits linked to gambling disorder (prefrontal-stratial dysregulation) but there is a call for "new interventions" which incorporate this knowledge [@raimo2021]
+- We can identify neural deficits linked to gambling disorder (prefrontal-stratial dysregulation) but there is a call for "new interventions" which incorporate this knowledge [@raimo2021]
 
--   Behavioural intervention research calls for further understanding of the neurobiological changes that take place with interventions [@schwebel2020]
+- Behavioural intervention research calls for further understanding of the neurobiological changes that take place with interventions [@schwebel2020]
 
 ::: notes
 One of the things you see in reviewing the literature on this topic is that their is a lot of research.
@@ -119,15 +119,15 @@ Our focus on the neural mechanisms, while also taking into account clinical vuln
 
 ## Clinical Vulnerabilities {background-image="../../images/gambling_neuro.jpg" background-opacity="0.1"}
 
--   **Doctoral Work:** *Cognitive Inhibition and Cognitive Flexibility as moderators of Depression and Problem Gambling.* ***Ema Abir*** (DClin)
+- **Doctoral Work:** *Cognitive Inhibition and Cognitive Flexibility as moderators of Depression and Problem Gambling.* ***Ema Abir*** (DClin)
 
--   **Doctoral Work:** *How risk imperception and reward magnitude moderate the relationship between subclinical hypomania and decision making.* ***David Minchella*** (DClin)
+- **Doctoral Work:** *How risk imperception and reward magnitude moderate the relationship between subclinical hypomania and decision making.* ***David Minchella*** (DClin)
 
--   **Doctoral Work:** *The role of impulsivity and working memory in the the relationship between subclinical hypomania and decision making. **Alana Gadsby*** (DClin)
+- **Doctoral Work:** *The role of impulsivity and working memory in the the relationship between subclinical hypomania and decision making. **Alana Gadsby*** (DClin)
 
--   **Completed Study** Wilson, C.J., Medimorec, S., Naganathan, J *et al.* (in prep) Risk Imperception, Not Reward Focus Underlies Poor Gambling Decisions in Subclinical Hypomania.
+- **Completed Study** Wilson, C.J., Medimorec, S., Naganathan, J *et al.* (in prep) Risk Imperception, Not Reward Focus Underlies Poor Gambling Decisions in Subclinical Hypomania.
 
--   **Study:** *Anxiety & Decision-Making.* Investigating how anxiety specifically impacts decision quality vs. risk-taking. ***Summer Hall***
+- **Study:** *Anxiety & Decision-Making.* Investigating how anxiety specifically impacts decision quality vs. risk-taking. ***Summer Hall***
 
 ::: notes
 In terms of the clinical vulnerabilties, we have several DClin projects which look at how depression and hypomania interact with other cognitive processes to affect risky decision-making.
@@ -143,11 +143,11 @@ All involve both neural mechanisms and cognitive moderators
 
 ## Social Context {background-image="../../images/gambling_group.jpg" background-opacity="0.1"}
 
--   **Funded Project:** “It’s part of the sport”: Exploring how social identification with sports groups predicts gambling behaviour and how people experience the normalisation of gambling with sports groups.
+- **Funded Project:** “It’s part of the sport”: Exploring how social identification with sports groups predicts gambling behaviour and how people experience the normalisation of gambling with sports groups.
 
--   **Study:** *Sports Engagement & Implicit Associations.* Testing if high sports engagement predicts a stronger implicit cognitive association between "Sport" and "Gambling." ***Thomas Wilkinson***
+- **Study:** *Sports Engagement & Implicit Associations.* Testing if high sports engagement predicts a stronger implicit cognitive association between "Sport" and "Gambling." ***Thomas Wilkinson***
 
--   **Review:** *Systematic Review on the efficacy of gambling harms policy-related interventions.* **w/ Dr. Andrew Richardson**
+- **Review:** *Systematic Review on the efficacy of gambling harms policy-related interventions.* **w/ Dr. Andrew Richardson**
 
 ::: notes
 There has been a noted lack of work in understanding recreational gambling and the nuances of its development in specific social contexts. Our focus so far has been on sports engagement and the sporting identity. This links back to the symbolic construction of sports betting \[lopez-gonzalez\].
@@ -159,11 +159,11 @@ We also have some pilot projects (UG) looking at the development of implicit ass
 
 ## Cognitive Mechanisms {background-image="../../images/gambling_decision.jpg" background-opacity="0.1"}
 
--   **Published Study:** @wilson2026 demonstrated that cognitive adaptations (construal mindset) can influence neural risk sensitivity in the Lateral Pre-frontal Cortex and affect risk-taking behaviour
+- **Published Study:** @wilson2026 demonstrated that cognitive adaptations (construal mindset) can influence neural risk sensitivity in the Lateral Pre-frontal Cortex and affect risk-taking behaviour
 
-    -   This is an proof-of concept experimental demonstration of the "hot-to-cool" shift that the gambling commission were advocating
+  - This is an proof-of concept experimental demonstration of the "hot-to-cool" shift that the gambling commission were advocating
 
--   **Study:** *Short-Form Video Adverts.* Testing if exposure to gambling adverts in short-form video content alters risk-taking behaviour. ***Theia Morgan***
+- **Study:** *Short-Form Video Adverts.* Testing if exposure to gambling adverts in short-form video content alters risk-taking behaviour. ***Theia Morgan***
 
 ::: notes
 All of the clinical projects I talked about earlier included specific cognitive mechanisms such as working memory, attention, impulsivity etc.
@@ -178,8 +178,7 @@ We have some non-clinical work which incorporates cognition too.
 Dr Christopher Wilson, Dr Srdan Medimorec, Prof. Judith Eberhardt, Dr. Robert Portman, Hannah Poulter, Lorraine Temple
 
 :::: notes
-<div>
-
+::: {}
 What the preceding slides show is a body of work that is being conducted within our lab which tackles this problem across the different domains I mentioned earlier.
 
 Of course, the UG work might be considered pilots or proof of concept.
@@ -189,8 +188,7 @@ We also have a series of doctoral projects that involve complex cognitive neuros
 Published work and papers under submission and in perparation
 
 Now, I want to focus on a project in progress...
-
-</div>
+:::
 ::::
 
 ## Project Team
@@ -199,33 +197,33 @@ Now, I want to focus on a project in progress...
 
 ## Project Background
 
--   Discourse around reducing harms is still heavily focused on the individual [@marko2022]
+- Discourse around reducing harms is still heavily focused on the individual [@marko2022]
 
--   Failure of research to epistemologically consider the broader context in which gambling takes place, has led to too much focus on individual pathology [@borrell2005]
+- Failure of research to epistemologically consider the broader context in which gambling takes place, has led to too much focus on individual pathology [@borrell2005]
 
--   “urgent need to identify predictors of disordered gambling in people who gamble recreationally \[…\] particularly across relationship \[… \] domains” [@bowden-jones2022]
+- “urgent need to identify predictors of disordered gambling in people who gamble recreationally \[…\] particularly across relationship \[… \] domains” [@bowden-jones2022]
 
 ::: notes
 This project looks to address a gap in the literature about the role of socialisation - for example engagement as a fan or a player might influence gambling behaviour.
 
--   Does it just increase exposure?
+- Does it just increase exposure?
 
--   Does it link to attitudes?
+- Does it link to attitudes?
 
--   Does it relate to frequency of betting or amount bet..
+- Does it relate to frequency of betting or amount bet..
 
 There are lots of questions
 :::
 
 ## Social Identification {background-image="../../images/gambling_sport.jpg" background-opacity="0.1"}
 
--   Socialisation through family or peer groups is a common starting point in the initiation of gambling behaviour [@reith2011]
+- Socialisation through family or peer groups is a common starting point in the initiation of gambling behaviour [@reith2011]
 
--   Problem gambling has been found to be associated with conformity to group norms [@atteoksanen2021]
+- Problem gambling has been found to be associated with conformity to group norms [@atteoksanen2021]
 
--   It is potentially much more valuable to understand how identification with other social groups could lead to gambling.
+- It is potentially much more valuable to understand how identification with other social groups could lead to gambling.
 
-    -   to engage with them at any level (e.g., amateur players or fan) is to be exposed to gambling [@constandt2022]
+  - to engage with them at any level (e.g., amateur players or fan) is to be exposed to gambling [@constandt2022]
 
 ::: notes
 There has been work done before linking sports involvement to gambling behavour...
@@ -239,32 +237,32 @@ Social identity is not a transient external source of influence, it is a state. 
 
 > We theorise that gambling has started to become norm-congruent behaviour within these social groups, which in-turn makes it an acceptable, or even expected, behaviour for those who want to see themselves as a prototypical group member
 
--   Research Question 1: Which aspects of gambling behaviour are linked to social identification with sports groups?
+- Research Question 1: Which aspects of gambling behaviour are linked to social identification with sports groups?
 
--   Research Question 2: Is the relationship between sports engagement and gambling behaviour moderated by social identification with sports groups?
+- Research Question 2: Is the relationship between sports engagement and gambling behaviour moderated by social identification with sports groups?
 
--   Research Question 3: How do people experience the normalisation of gambling within sports social groups?
+- Research Question 3: How do people experience the normalisation of gambling within sports social groups?
 
 ## Methodology
 
--   Mixed methods approach
+- Mixed methods approach
 
--   WP1: a cross-sectional survey-based study
+- WP1: a cross-sectional survey-based study
 
--   WP 2: a qualitative study.
+- WP 2: a qualitative study.
 
--   WP 3: a synthesis of these ideas into recommendations for stakeholders
+- WP 3: a synthesis of these ideas into recommendations for stakeholders
 
 ## Project Structure
 
 ![](images/afsg_project_overview.png){fig-align="center" width="971"}
 
 ::: notes
--   Exploratory
+- Exploratory
 
--   Role of EBEs
+- Role of EBEs
 
--   Recruitment through sports networks, not gambling networks
+- Recruitment through sports networks, not gambling networks
 :::
 
 ## Work Package 1
@@ -272,72 +270,72 @@ Social identity is not a transient external source of influence, it is a state. 
 ![](/images/afsg_models.png){fig-align="center"}
 
 ::: notes
--   Survey approach - controlled access
+- Survey approach - controlled access
 
--   Sports engagement / fandom / involvement
+- Sports engagement / fandom / involvement
 
--   Social identity / prototypical group membership
+- Social identity / prototypical group membership
 
--   Gambling measures: PGSI, Follow-back, Attitudes...
+- Gambling measures: PGSI, Follow-back, Attitudes...
 
 This is a diagram showing some of the hypotheses we will be testing
 :::
 
 ## Work Package 2: Interviews
 
--   Focusing on the experience of normalisation of gambling
+- Focusing on the experience of normalisation of gambling
 
--   Topics covered:
+- Topics covered:
 
-    -   Sports engagement
+  - Sports engagement
 
-    -   Individual level; survey: attitudes, gambling behaviour, problem gambling symptoms
+  - Individual level; survey: attitudes, gambling behaviour, problem gambling symptoms
 
-    -   Families, peers; survey: conformity, social identity
+  - Families, peers; survey: conformity, social identity
 
-    -   Community/organisational level; survey: sports engagement, group identity
+  - Community/organisational level; survey: sports engagement, group identity
 
-    -   Societal/commercial; survey: advertising, outcome expectancies
+  - Societal/commercial; survey: advertising, outcome expectancies
 
--   Interview data will be analysed using Framework Analysis [@gale2013]
+- Interview data will be analysed using Framework Analysis [@gale2013]
 
-    ::: notes
-    In this part of the work we are taking some of the concepts that are explored in the questionnaires and we are interviewing people
+  ::: notes
+  In this part of the work we are taking some of the concepts that are explored in the questionnaires and we are interviewing people
 
-    -   Exploring normalisation
+  - Exploring normalisation
 
-    -   Theory-linked (not as inductive)
-    :::
+  - Theory-linked (not as inductive)
+  :::
 
 ## Progress and current Status
 
--   Targeted recruitment at sports organisations and fan groups
+- Targeted recruitment at sports organisations and fan groups
 
--   Survey data collection (current n = 120)
+- Survey data collection (current n = 120)
 
--   Interviews currently being scheduled
-
-# Why does this work matter?
+- Interviews currently being scheduled
 
 # Why does this work matter?
 
--   UKGC is shifting to "safer by design" requirements for operators. "Soft friction" doesn't work. Need to establish evidence base for what does.
+# Why does this work matter?
 
--   Multi-dimensional models of gambling harms call for integration of behavioural, cognitive, neural and social mechanisms. A programme of research is needed to connect these.
+- UKGC is shifting to "safer by design" requirements for operators. "Soft friction" doesn't work. Need to establish evidence base for what does.
 
--   We are working to understand:
+- Multi-dimensional models of gambling harms call for integration of behavioural, cognitive, neural and social mechanisms. A programme of research is needed to connect these.
 
-    -   How cognitive processes affect gambling behaviour specifically
+- We are working to understand:
 
-    -   What are the specific neural mechanisms involved
+  - How cognitive processes affect gambling behaviour specifically
 
-    -   How trait-level social constructs (e.g., fan identity) moderate the link between community and behaviour
+  - What are the specific neural mechanisms involved
+
+  - How trait-level social constructs (e.g., fan identity) moderate the link between community and behaviour
 
 # What's next?
 
--   **The Next Challenge:** Can we use this understanding of process to *engineer* better harm-reduction tools?
+- **The Next Challenge:** Can we use this understanding of process to *engineer* better harm-reduction tools?
 
--   **The goal:** To move beyond *describing* harm to *preventing* it, developing neuro-informed frameworks for safer gambling environments.
+- **The goal:** To move beyond *describing* harm to *preventing* it, developing neuro-informed frameworks for safer gambling environments.
 
 # Thank you, questions?
 

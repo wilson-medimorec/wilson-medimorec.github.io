@@ -4,14 +4,14 @@ project:
   resources: 
     - "CNAME"
 website:
-  body-footer: "<div class='nav-footer'>[The Wilson-Medimorec MIND Lab](/about.qmd)</div>"
+  body-footer: "<div class='nav-footer'>[The Wilson-Medimorec MIND Research Lab](/about.qmd)</div>"
   announcement: 
     icon: info-circle
     dismissable: true
     content: "We are currently recruiting participants for research on campus. Click <a href='/recruitment/index.html'>here</a> to learn more."
     type: primary
     position: above-navbar
-  title: "The MIND Lab"
+  title: "The MIND Research Lab"
   navbar:
     logo: "images/icon.png"
     left:

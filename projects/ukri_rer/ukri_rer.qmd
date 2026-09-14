@@ -13,7 +13,7 @@ funder: "Funded by UKRI/AHRC"
 
 
  
-The MIND Lab has been awarded a grant by UKRI / AHRC as part of the Rapid Evidence Reviews into Gambling Harms. Dr Wilson (PI) will be working with Dr Andrew Richardson (Newcastle University / ADPH North East Gambling Related Harms Programme) on a project titled: *Sports engagement as a gateway activity to gambling activity: a systematic review and intersectional analysis of the compound vulnerabilities to gambling harm*.
+Our Lab has been awarded a grant by UKRI / AHRC as part of the Rapid Evidence Reviews into Gambling Harms. Dr Wilson (PI) will be working with Dr Andrew Richardson (Newcastle University / ADPH North East Gambling Related Harms Programme) on a project titled: *Sports engagement as a gateway activity to gambling activity: a systematic review and intersectional analysis of the compound vulnerabilities to gambling harm*.
 
 ![](../../images/ahrc_logo.png){style="display: block; margin: 0 auto; width:30%" } 
 

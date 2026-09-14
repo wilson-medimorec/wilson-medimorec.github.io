@@ -5,7 +5,7 @@ toc: true
 #   contents: "/"
 ---
 
-The MIND Lab uses a state-of-the-art, multi-level methodological approach to investigate the neurocognitive basis of human decision-making, learning, and communication. Our process is designed to be rigorous, transparent, and replicable. 
+Our Lab uses a state-of-the-art, multi-level methodological approach to investigate the neurocognitive basis of human decision-making, learning, and communication. Our process is designed to be rigorous, transparent, and replicable. 
 
 ## Neurological & Physiological Measurement
 

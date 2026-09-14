@@ -50,7 +50,7 @@ This update moves `cobifnirs` from a data-handling utility towards comprehensive
 
 **Installation**
 
-Documentation is available here: [https://themindlab.uk/cobifnirs/](https://themindlab.uk/cobifnirs/)
+Documentation is available here: [https://themindresearchlab.org/cobifnirs/](https://themindresearchlab.org/cobifnirs/)
 
 The package is available for installation from GitHub:
 

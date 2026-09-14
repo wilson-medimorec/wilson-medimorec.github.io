@@ -14,7 +14,7 @@ status: open
 study-location: "Online"
 title: "Sports Engagement and Gambling Interviews: Debrief"
 image: "../images/sport_team.jpg"
-footer: "<a href='/'>www.themindlab.uk</a>" 
+footer: "<a href='/'>www.themindresearchlab.org</a>" 
 ---
 ## Aims of the research:  
 

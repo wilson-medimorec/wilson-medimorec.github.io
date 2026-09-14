@@ -13,7 +13,7 @@ status: open
 study-location: "Online"
 title: "Conversational Memory"
 image: "../images/speech.jpg"
-footer: "<a href=/'>www.themindlab.uk</a>" 
+footer: "<a href=/'>www.themindresearchlab.org</a>" 
 
 ---
 

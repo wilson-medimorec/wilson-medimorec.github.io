@@ -2,6 +2,7 @@
 title: "The MIND Lab Research Challenge"
 toc: true
 image: "../images/challenge_poster.png"
+draft: true
 categories:
   - news
 news-date: 2025-11-10

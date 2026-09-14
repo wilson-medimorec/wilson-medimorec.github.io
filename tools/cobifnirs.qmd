@@ -14,8 +14,8 @@ listing:
     categories: "{fnirs, software, R}*"
 ---
 
-[![](https://img.shields.io/github/r-package/v/mindlab-tees/cobifnirs
-)](https://github.com/mindlab-tees/cobifnirs)
+[![](https://img.shields.io/github/r-package/v/wilson-medimorec/cobifnirs
+)](https://github.com/wilson-medimorec/cobifnirs)
 
 The COBI fNIRS R package is a collection of functions for processing and analyzing functional near-infrared spectroscopy (fNIRS) data. The package provides functions for importing, preprocessing and visualising fNIRS data that has been recorded in COBI studio.
 

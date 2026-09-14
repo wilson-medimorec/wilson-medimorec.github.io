@@ -1,5 +1,5 @@
 ---
-title: "Research training in the MIND Lab"
+title: "Research training in the Lab"
 format: 
   html:
     toc: true
@@ -12,13 +12,13 @@ listing:
 Each semester, the lab leads and doctoral students deliver a series of seminars on various topics related to research training. The seminars are designed to provide students with the necessary skills and knowledge to conduct research in the field of cognitive psychology and neuroscience.
 
 
-## MIND Lab Research Training Badges
+## Lab Research Training Badges
 
 This semester we are introducing a new initiative to encourage and recognise the development of research skills among our lab members.
 
 We have identified a set of skills that are important for conducting research in cognitive psychology and neuroscience. We will be awarding digital badges to students who complete training in these skills, through participation in workshops, seminars, or contributions to lab projects.
 
-Badges will be visible on the profile of each lab member on the MIND Lab website, showcasing their skills and expertise to potential employers and collaborators. Each badge has a specific set of criteria that must be met in order to earn it, and lab mambers will receive feedback on their progress towards earning each badge.
+Badges will be visible on the profile of each lab member on the lab website, showcasing their skills and expertise to potential employers and collaborators. Each badge has a specific set of criteria that must be met in order to earn it, and lab mambers will receive feedback on their progress towards earning each badge.
 
 Soon, the badges will be implemented using the open badge standard, which allows for easy sharing and verification of skills across different platforms. This means that lab members will be able to showcase their badges on their CVs, LinkedIn profiles, and other professional networks.
 
@@ -28,7 +28,7 @@ Soon, the badges will be implemented using the open badge standard, which allows
 
 ## Some of our training sessions
 
-These are some of the core skills for conducting research in the MIND lab. While other sessions might be more specific to a particular project, these sessions are designed to provide a solid foundation for all students in the lab.
+These are some of the core skills for conducting research in the lab. While other sessions might be more specific to a particular project, these sessions are designed to provide a solid foundation for all students in the lab.
 
 ### Introduction to functional near-infrared spectroscopy (fNIRS) for brain imaging
 
@@ -58,7 +58,7 @@ In this workshop, we will cover the basics of designing and coding experiments w
 
 R is a free and open-source programming language and software environment for statistical computing and graphics. It is widely used in the fields of data analysis, statistics, and machine learning, making it a valuable tool for researchers in cognitive psychology and neuroscience.
 
-In the MIND lab, R is our default tool for analysis and visualisation of data. In this workshop, we will cover the basics of R, including how to install and set up R and RStudio, how to import and manipulate data. We will also cover some common statistical techniques used in cognitive psychology and neuroscience research, such as t-tests, ANOVA, and regression analysis.
+In the lab, R is our default tool for analysis and visualisation of data. In this workshop, we will cover the basics of R, including how to install and set up R and RStudio, how to import and manipulate data. We will also cover some common statistical techniques used in cognitive psychology and neuroscience research, such as t-tests, ANOVA, and regression analysis.
 
 ### Introduction to Zotero for reference management
 

@@ -9,7 +9,7 @@ categories:
 
 
 [![](https://img.shields.io/badge/github-repo-blue?logo=github
-)](https://github.com/mindlab-tees/experiment_task_code)
+)](https://github.com/wilson-medimorec/experiment_task_code)
 
 In our lab we use a range of experimental tasks to study cognitive and neural processes. These tasks are programmed using [JSPsych](https://www.jspsych.org/), a JavaScript library for creating behavioral experiments in a web browser or [OpenSesame](https://osdoc.cogsci.nl/), a graphical experiment builder that runs on python.
 

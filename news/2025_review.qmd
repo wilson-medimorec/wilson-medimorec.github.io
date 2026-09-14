@@ -10,13 +10,13 @@ It has been a busy and productive semester for the Lab. As we head into the brea
 
 ## Building Research Capacity
 
-A core mission of the lab is to equip our researchers with methodological and technical research skills. We continued this month with hands-on training in Eye-Tracking data acquisition. This follows our sessions on fNIRS neuroimaging and will be followed by sessions on [experimental programming and open science in the next semester.](https://themindlab.uk/info/lab_schedule.html)
+A core mission of the lab is to equip our researchers with methodological and technical research skills. We continued this month with hands-on training in Eye-Tracking data acquisition. This follows our sessions on fNIRS neuroimaging and will be followed by sessions on [experimental programming and open science in the next semester.](https://themindresarchlab.org/info/lab_schedule.html)
 
 ![](../images/eye_t1.jpg){style="display: block; margin: 0 auto; width:50%" }
 
 ## Funding Success 
 
-Earlier in the year, we announced new active grants for the lab. Dr Wilson and Dr Medimorec, as well as lab member Lorraine Temple have been busy working on the ["It's part of the sport" project](https://themindlab.uk/projects/afsg_sport.html), funded by the Academic Forum for the Study of Gambling (AFSG). The project is progressing well and provides a strong platform for future work.
+Earlier in the year, we announced new active grants for the lab. Dr Wilson and Dr Medimorec, as well as lab member Lorraine Temple have been busy working on the ["It's part of the sport" project](https://themindresarchlab.org/projects/afsg_sport), funded by the Academic Forum for the Study of Gambling (AFSG). The project is progressing well and provides a strong platform for future work.
 
 ## New Publications 
 
@@ -24,7 +24,7 @@ Earlier in the year, we announced new active grants for the lab. Dr Wilson and D
 
 ## Talks and Poster Presentations
 
-Earlier this year, we presented several of our active studies and collaborations at the [Teesside University Research Fair](https://themindlab.uk/events/tu_research_fair.html). In October, Dr Medimorec gave a talk to the wider department on how the [characteristics of language affect memory](https://themindlab.uk/events/srdan_talk_25.html) and in November, Dr Wilson gave a talk on his [programme of research into the cognitive neuroscience of gambling harms.](https://themindlab.uk/events/chris_talk_25.html)
+Earlier this year, we presented several of our active studies and collaborations at the [Teesside University Research Fair](https://themindresearchlab.org/events/tu_research_fair.html). In October, Dr Medimorec gave a talk to the wider department on how the [characteristics of language affect memory](https://themindresearchlab.org/events/srdan_talk_25.html) and in November, Dr Wilson gave a talk on his [programme of research into the cognitive neuroscience of gambling harms.](https://themindresearchlab.org/events/chris_talk_25.html)
 
 ## Looking ahead
 
