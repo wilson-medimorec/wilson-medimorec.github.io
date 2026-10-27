@@ -1,0 +1,647 @@
+---
+title: "Research in Psychology"
+author: Dr. Christopher Wilson <br /> Associate Professor of Psychology
+format:
+  revealjs:
+    slide-number: true
+    logo: "../../images/tu_icon.jpg"
+    theme: [custom.scss]
+    width: 1280
+    height: 720
+  pptx:
+    slide-level: 2
+    theme: "Teesside"
+    widescreen: true
+    fig-width: 6
+    fig-height: 4
+    fig-align: center
+---
+
+# Psychology is research {data-background-image="https://mindresearchlab.org/images/eye_t1.jpg" data-background-opacity="0.3"}
+
+::: notes
+Hello everyone. For those of you who don't know me, my name is Chris Wilson, and I'm an Associate Professor of Psychology here at Teesside University.
+
+It's nice to meet you all.
+
+Some of you may have studied psychology at a-level and some of you will not. Those of you who did, might be aware of the importance of research as a part of psychology.
+
+However, my goal today is to get you to understand that research is not a part of psychology, but that psychology is research.
+:::
+
+# Psychologists are researchers {data-background-image="https://mindresearchlab.org/images/eye_t2.jpg" data-background-opacity="0.3"}
+
+::: notes
+That might seem like a strange claim to make. After all, you might say, many types of psychologists are not researchers: clinical, counseling, forensic, health educational...
+
+All of the applied roles that you are aware of. You might see them as careers that are decidedly not research-related.
+
+But that is not the case. Every one of those careers, the ability to understand, evaluate and conduct research is a vital part of the job that they do.
+
+To critically evaluate evidence to reach conclusions. To have a question/problem and design a set of tests or "experiments" in order to see if your theory is true.
+
+There is research which demonstrates that the application of the scientific method is a vital part of preventing clinical and counseling psychologists from being affected by confirmation bias in their decision-making.
+:::
+
+
+
+# What's the point of research in psychology?
+
+The challenge of understanding human behaviour is never complete.
+
+::: notes
+Most of us are motivated to pursue psychology to understand and help people.
+
+Part of that vocation is not just about absorbing all of the prior knowledge.
+
+People are always changing, the world is always changing around us. There is always more to know.
+
+Psychology does not stand still. Research is how we keep psychology moving.
+:::
+
+## The challenges we face {data-background-image="../../images/challenges.png" data-background-opacity="0.3"}
+
+- Climate change
+- Misinformation and distrust
+- Social Isolation
+- Inequality and division
+- Trauma and mental health issues
+- Chronic illness and ageing populations
+- Adaptation to a rapidly changing world
+
+::: notes
+There are many challenges that we face, on a global, community, and individual level.
+
+Challenges like climate change are co-occurring with increasing distrust of institutions and misinformation, increasing social isolation, rising inequality...
+
+and a general sense of instability and uncertainty in a rapidly changing world.
+
+The goal of researchers is to tackle these challenges, to give practitioners the tools they need to help people.
+:::
+
+## The Human Element {data-background-image="https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg" data-background-opacity="0.3"}
+
+- Contemporary challenges like misinformation, social isolation, and trauma are often viewed through a political or economic lens.
+- At their core, however, they are fundamentally human problems, rooted in cognition, emotion, and social identity.
+- Research provides us with the tools to understand these challenges, to support individuals and communities, and to start looking for solutions.
+
+::: notes
+The challenges we face are fundamentally human problems, rooted in cognition, emotion, and social identity.
+
+That we need research in psychology to understand these challenges, to support individuals and communities, and to start looking for solutions.
+
+And importantly, that the research being done here at Teesside University is directly relevant to these tackling these challenges ... and making a positive difference in the world.
+:::
+
+# How can I learn more about research in the psychology department?
+
+## Research Seminar Series
+
+![](../../images/s1seminars.png){fig-align="center" width="50%"}
+
+::: notes
+The way I've chosen to do that is to frame this talk around a question that I think many of us might have asked ourselves at some point over the last few years. That question is:
+:::
+
+## One of the best ways to learn is to do.
+
+- You can take part in research. Soon you will be added to our research participation system (SONA).
+
+- In the meantime, we have several lab studies running now and we are looking for participants. You can sign up to take part in these studies at:
+
+<https://recruitment.mindresearchlab.org>
+
+![](recruitqr.png){fig-align="center" width="20%"}
+
+## Dr Robert Portman is looking for participants to take part in a survey-based study
+
+![](rob_study.png){fig-align="center" width="50%"}
+
+
+## Are there other ways to get involved?
+
+- There are sometimes opportunities to gain work experience as research assistants (paid and voluntary).
+
+- Only recommended if you are passionate about research and the work involved.
+
+For example: 
+
+[https://mindresearchlab.org/](https://mindresearchlab.org/)
+
+
+
+::: notes
+So in this talk, I am going to highlight some of the research being done by our colleagues in Psychology here at Teesside University.
+
+I have selected a few themes based on what I have just outlined, and I will highlight some of the research being done in each area.
+
+This is not an exhaustive list
+
+But I hope that this will give you a sense of the amazing work being done here, and help you understand that alongside your teaching, there is some amazing research activity.
+:::
+
+# Navigating the information maze {.section}
+
+How our emotions are affecting what we believe and the decision we make.
+
+::: notes
+Perhaps one of the biggest challenges of our time is the amount of information available to us, shaping beliefs and behaviours in ways that can be either helpful or harmful.
+
+The WHO have used the phrase "infodemic" to describe an outbreak of misinformation that can have serious public health consequences.
+
+There is a body of work here in our department that is helping us understand these processes.
+
+Understanding how people process information, how emotions shape our judgments, and how social identity influences our sense of truth is essential for developing effective strategies to counter misinformation and promote healthier public discourse.
+:::
+
+## The Psychology of the Climate Crisis {data-background-image="https://images.pexels.com/photos/2259223/pexels-photo-2259223.jpeg" data-background-opacity="0.15"}
+
+:::::: columns
+:::: {.column width="40%"}
+![](https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/03/new-climate-statement-infographic_2018-600x600.png){.researcher-image}
+
+::: researcher-name
+**Dr. Marcin Owczarek**
+:::
+::::
+
+::: {.column width="60%"}
+Understanding emotional responses like eco-anxiety is essential for understanding the psychological impact of climate change.
+:::
+::::::
+
+::: notes
+Let's start with one of the biggest challenges.
+
+There's a lot of focus on this topic about action, and rightly so. But if we want people to act, we need to understand more about the psychological barriers to action.
+
+Marcin's work focuses on the concept of eco-anxiety and is leading the call for "more rigorous methodological standards and theoretical clarity".
+
+This will help advance our understanding of how people are emotionally responding to the climate crisis, and how we can support them in taking action.
+:::
+
+::: footer
+Owczarek, M., et al. (2025). Psychometric assessment of climate-related emotional responses... *Current Psychology, 44*, 4883–4905.
+:::
+
+## The Paradox of Fear {data-background-image="https://images.pexels.com/photos/7130473/pexels-photo-7130473.jpeg" data-background-opacity="0.3"}
+
+:::::: columns
+:::: {.column width="40%"}
+![](https://research.tees.ac.uk/files-asset/4132574/DisplayPhoto.jpg?w=320&f=webp){.researcher-image}
+
+::: researcher-name
+**Dr. Lee Copping**
+:::
+::::
+
+::: {.column width="60%"}
+For individuals with strong conspiratorial beliefs, fear-based health appeals can be counterproductive, triggering defiance instead of compliance.
+
+> “Instead, the more anxious they become about infection, the more they blame the system and react against it...”
+:::
+::::::
+
+::: notes
+That links to Lee's work, which demonstrates that how we communicate about risk might not effect behaviour in the way we expect.
+
+It demonstrates the psychological principle of **reactance**, where a perceived attempt at control triggers defiance.
+
+In Lee's work, higher levels of anxiety led to more compliance, except for people with strong conspiratorial beliefs.
+
+For individuals who already distrust institutions, fear appeals are not seen as warnings but as coercion, leading to an active rejection of recommended behaviours.
+
+This work is valuable beyond the context of health messaging, because it provides insights into how to communicate effectively in a polarized information environment.
+:::
+
+::: footer
+Copping, L. (2022). Anxiety and covid-19 compliance behaviors in the UK: The moderating role of conspiratorial thinking. *Personality and Individual Differences, 192*, 111604.
+:::
+
+## Emotion shortcuts our judgement {data-background-image="https://images.pexels.com/photos/5474040/pexels-photo-5474040.jpeg" data-background-opacity="0.3"}
+
+:::::: columns
+:::: {.column width="40%"}
+![](https://research.tees.ac.uk/files-asset/95715136/chris_wilson_photo_head.jpg?w=320&f=webp){.researcher-image}
+
+::: researcher-name
+**Dr. Chris Wilson**
+:::
+::::
+
+::: {.column width="60%"}
+This research investigates how mental strain (cognitive load) and our personal framing of a choice (construal) can disrupt the ability to process risk, identifying the brain activity behind these altered decisions.
+:::
+::::::
+
+::: notes
+This work shows that under cognitive load (mental stress), certain factors interact, disrupting our ability to rationally assess risk.
+
+It's crucial for understanding why poor decisions might be made under pressure, and it identifies the corresponding neurological and behavioural patterns.
+:::
+
+::: footer
+Wilson, C. J. (2026). Neurological and Behavioural Correlates of Construal in Economic Decision-Making Under Cognitive Load. Behavioural Brain Research, 115829.
+:::
+
+## Co-Constructing Health Knowledge {data-background-image="https://images.pexels.com/photos/4021779/pexels-photo-4021779.jpeg" data-background-opacity="0.3"}
+
+:::::: columns
+:::: {.column width="40%"}
+![](https://research.tees.ac.uk/files-asset/34529294/Photo4.jpg?w=320&f=webp){.researcher-image}
+
+::: researcher-name
+**Dr. Lauren Walker**
+:::
+::::
+
+::: {.column width="60%"}
+The wealth of online information is creating internet-informed patients. To maintain trust in the relationship, doctors need to shift their communication strategy **"from compliance to co-construction"** to build a shared understanding.
+:::
+::::::
+
+::: notes
+Of course, in times of difficulty, people seek out information to help them make sense things. Like when faced with a health crisis.
+
+Dr. Walker's research shows that the potential harms of online misinformation can be mitigated through a strong, trusting therapeutic relationship.
+
+When patients feel safe to disclose their online research, it allows clinicians to address misconceptions, validate correct information, and integrate the patient's priorities into a shared decision-making process.
+:::
+
+::: footer
+Walker, L., & Sillence, E. (2024). Examining Healthcare Professionals' Communication Around Decision-Making with Internet-Informed Patients. *Health communication, 39*(6), 1094–1101.
+:::
+
+## How we engage on cognitive offloading {data-background-image="https://images.pexels.com/photos/1749303/pexels-photo-1749303.jpeg" data-background-opacity="0.3"}
+
+:::::: columns
+:::: {.column width="40%"}
+![](https://outofourminds.bham.ac.uk/media/people/S-Medimorec.jpg){.researcher-image}
+
+::: researcher-name
+**Dr. Srdan Medimorec**
+:::
+::::
+
+::: {.column width="60%"}
+Investigating fundamental cognitive processes like metacognition (thinking about one's own mind) and implicit learning (learning without awareness) provides the building blocks for understanding all complex human behaviours.
+:::
+::::::
+
+::: notes
+Dr. Srdan Medimorec's into Cognitive offloading - the idea that when we are trying to process large amounts of information use certain techniques to temporarily offload that information so we can handle it
+
+provides really important insights into how we manage this information overload without even realizing it.
+
+This is one of those fundamental processes that underpins so many of the complex behaviours we are talking about today.
+:::
+
+::: footer
+Medimorec, S., et al. (2024). Children's metacognition and cognitive offloading...
+:::
+
+# The Fraying of Social Bonds
+
+Understanding and addressing loneliness in increasingly factional world.
+
+::: notes
+A report from the WHO Commission on Social Connection found that social isolation and loneliness are widespread, with serious but under-recognized impacts on health, well-being, and society.
+
+Calls on policy-makers, researchers and all sectors to treat social health with the same urgency as physical and mental health.
+
+There is a fascinating cluster of work in the department which has addressed the concepts of not just isolation, but social cohesion and social identity and how it can affect different groups of people.
+:::
+
+## The Human-Animal Bond {data-background-image="https://images.pexels.com/photos/4588052/pexels-photo-4588052.jpeg" data-background-opacity="0.15"}
+
+:::::: columns
+:::: {.column width="40%"}
+![](https://research.tees.ac.uk/files-asset/87443367/20240918_161958.jpg?w=320&f=webp){.researcher-image}
+
+::: researcher-name
+**Dr. Heather Clements**
+:::
+::::
+
+::: {.column width="60%"}
+Dr. Clements' research reveals a complex reality about pets and loneliness. With unexpected results around pet ownership and mental health, and evidence of different impacts based on the type of animal and level of engagement.
+:::
+::::::
+
+::: notes
+One of the things that I like about this pandemic-based research is that it provided an unprecedented opportunity to study the human-animal bond in a context where social isolation was widespread.
+
+The findings challenge some common assumptions, but this type of nuanced understanding is vital for developing effective interventions that leverage the human-animal bond to enhance wellbeing.
+:::
+
+::: footer
+Clements, H., et al. (2021). Companion Animal Type and Level of Engagement Matter: A Mixed-Methods Study... *Animals, 11*(8), 2349.
+:::
+
+## Therapeutic Responses to Marginalisation {data-background-image="https://images.pexels.com/photos/5699475/pexels-photo-5699475.jpeg" data-background-opacity="0.3"}
+
+:::::: columns
+:::: {.column width="40%"}
+![](https://research.tees.ac.uk/files-asset/4125937/DisplayPhoto.jpg?w=320&f=webp){.researcher-image}
+
+::: researcher-name
+**Dr. Alex Kyriakopoulos**
+:::
+::::
+
+::: {.column width="60%"}
+For destitute asylum seekers, loneliness is an active product of social exclusion. The research highlights that a therapist's validating presence can be a lifeline, directly counteracting the dehumanising effects of their circumstances.
+:::
+::::::
+
+::: notes
+This work powerfully illustrates that loneliness is not merely a passive state. For marginalised groups, it is often an active product of social and political forces.
+
+The psychological response, therefore, must be equally active. It is not about teaching "social skills" but about the fundamental human act of creating a safe, trusting, and affirming relationship, providing an antidote to the isolation engendered by systemic hostility.
+:::
+
+::: footer
+Gerayeli, E., & Kyriakopoulos, A. (2024). How do therapists in the UK navigate the issue of loneliness when working with destitute asylum seekers?... *Counselling and Psychotherapy Research*.
+:::
+
+## The Power of Group Identity: Belonging {data-background-image="https://images.pexels.com/photos/2422290/pexels-photo-2422290.jpeg" data-background-opacity="0.3"}
+
+:::::: columns
+:::: {.column width="40%"}
+![](https://research.tees.ac.uk/files-asset/8662094/IMG_3067.jpeg?w=320&f=webp){.researcher-image}
+
+::: researcher-name
+**Dr. Paul Sander**
+:::
+::::
+
+::: {.column width="60%"}
+The socio-situational context associated with individual personality traits to predict academic behavioural convidence.
+:::
+::::::
+
+::: notes
+Paul's research on "Academic Behavioural Confidence" shows that a student's confidence is not formed in a vacuum but is powerfully reinforced by social context and socio-cultural expectations around gender norms for example.
+
+This is an important reminder of how individual achievement can be shaped by social norms.
+:::
+
+::: footer
+Sander, P., & de la Fuente, J. (2020). Undergraduate Student Gender, Personality and Academic Confidence. *International Journal of Environmental Research and Public Health*, *17*(15), 5567.
+:::
+
+## The Power of Group Identity: Application {data-background-image="https://images.pexels.com/photos/2422290/pexels-photo-2422290.jpeg" data-background-opacity="0.3"}
+
+:::::: columns
+:::: {.column width="40%"}
+![](https://research.tees.ac.uk/files-asset/87162268/PURE_Profile.jpg?w=320&f=webp){.researcher-image}
+
+::: researcher-name
+**Dr. Robert Portman**
+:::
+::::
+
+::: {.column width="60%"}
+The practical application of the social identity approach can be used to facilitate health-enhancing behaviour change by actively building supportive and cohesive communities.
+:::
+::::::
+
+::: notes
+Dr. Portman's work shows how social identity can influence not just how we feel, but our behaviour. His research demonstrates that when people feel part of a community pursuing shared goals, their confidence and success rates improve.
+:::
+
+::: footer
+Portman, R. M., Levy, A. R., Maher, A. J., & Fairclough, S. J. (2021). Co-developing peer interventions in health-related contexts: A case study from exercise referral. Health Education Journal, 81(1), 17-28. https://doi.org/10.1177/00178969211045106 (Original work published 2022)
+:::
+
+## How we see the faces of others {data-background-image="https://www.briefcam.com/wp-content/uploads/2019/12/FR_AdobeStock_164918001-scaled.jpeg" data-background-opacity="0.1"}
+
+:::::: columns
+:::: {.column width="40%"}
+![](https://research.tees.ac.uk/files-asset/4133064/DisplayPhoto.jpg?w=320&f=webp){.researcher-image}
+
+::: researcher-name
+Dr. Natalie Butcher
+:::
+::::
+
+::: {.column width="60%"}
+Understanding the cognitive neuroscience of face recognition, such as how facial motion affects recognition of same and other race faces, has profound implications for eyewitness testimony, unconscious bias, and intergroup relations.
+:::
+::::::
+
+::: notes
+Dr. Natalie Butcher's research on the cognitive neuroscience of face recognition could have fit into several of the themes I'm discussing today, because it has such broad implications.
+
+How we recognise and categorise the faces of other people is such a fundamental social cognitive process, with implications for everything from intergroup relations to eyewitness testimony.
+:::
+
+::: footer
+Butcher, N. (2009). The effect of facial motion information on the recognition of same and other race faces.
+:::
+
+# Deconstructing Division
+
+The Psychological Roots of Prejudice and Inequality.
+
+::: notes
+The UN sustainable goals recognise that reducing inequality within and among countries is essential for creating a just and equitable world.
+
+But we know that inequality is rising, both within and between countries. This includes economic inequality, but also social inequality, health inequality, and inequality of opportunity.
+
+Unfortunately, perceptions of inequality can also lead to increased prejudice and division, and the promotion of zero-sum thinking, where one group's progression is seen to be at the expense of another.
+
+In the department, there is a strong body of work that is addressing these issues, from understanding the linguistic strategies used to disguise prejudice, to developing more equitable health interventions, to promoting inclusive practice in social care.
+:::
+
+## The Architecture of "Reasonable" Hate {data-background-image="https://images.pexels.com/photos/267569/pexels-photo-267569.jpeg" data-background-opacity="0.3"}
+
+:::::: columns
+:::: {.column width="40%"}
+![](https://research.tees.ac.uk/files-asset/113766754/IMG_4003.jpeg?w=320&f=webp){.researcher-image}
+
+::: researcher-name
+**Dr. Shani Burke**
+:::
+::::
+
+::: {.column width="60%"}
+A key finding from discursive psychology is that strategies used to disguise talk as 'not racist' are also used to justify explicitly racist talk. Understanding these linguistic tactics is the first step toward deconstructing them.
+:::
+::::::
+
+::: notes
+Dr. Burke's research moves beyond simply labelling discourse as hateful and instead performs a fine-grained analysis of the rhetorical strategies used to make such views appear legitimate.
+
+By analysing tactics like appealing to "common sense" or constructing minorities as a threat, her research provides a "playbook" for how prejudice is laundered into seemingly acceptable public discourse. This work is vital for fostering a more critical and resilient civic dialogue.
+:::
+
+::: footer
+Burke, S., & Demasi, M. (2021). Extreme prejudice as reasoned discourse in face-to-face Interactions. In *Political Communication: Discursive Perspectives*.
+:::
+
+## Co-Production and Health Equity {data-background-image="https://images.pexels.com/photos/6646917/pexels-photo-6646917.jpeg" data-background-opacity="0.15"}
+
+:::::: columns
+:::: {.column width="40%"}
+![](https://research.tees.ac.uk/files-asset/77639421/Facetune_25-02-2024-22-26-10.jpeg?w=320&f=webp){.researcher-image}
+
+::: researcher-name
+**Professor Judith Eberhardt**
+:::
+::::
+
+::: {.column width="60%"}
+> “Through **co-producing** this intervention with Black communities and delivering it in **trusted spaces**, we aim to break down barriers to screening and facilitate equitable access to early diagnosis and treatment”.
+:::
+::::::
+
+::: notes
+Prof. Eberhardt's research exemplifies a critical evolution in tackling systemic inequality.
+
+The concept of "co-production" rejects a model where outside "experts" design interventions *for* a community. Instead, it involves working *with* community members as equal partners. This process builds trust and ensures the final product is culturally resonant, providing a powerful, evidence-based blueprint for tackling health inequalities.
+:::
+
+::: footer
+Christie-de Jong, F., & Eberhardt, J. (2025). *EQUITy in Black Adult health (EQUITA)*. National Institute for Health and Care Research.
+:::
+
+# From Trauma to Resilience
+
+Pathways to Healing and Growth.
+
+::: notes
+Trauma is a pervasive issue, with some research suggesting that up to 70% of people will experience at least one traumatic event in their lifetime.
+
+An estimated 3.9% of the global population has experienced PTSD, according to the WHO. We are increasingly recognising that trauma is not just an individual issue, but a societal one, with implications for public health, social policy, and community wellbeing.
+
+There is a strong body of work in the department that is addressing trauma from multiple angles, from understanding how individuals can thrive despite adversity, to exploring the narratives of post-traumatic growth, to examining the long-term impacts of trauma across the lifespan.
+:::
+
+## Trauma in Higher Education {data-background-image="https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg" data-background-opacity="0.3"}
+
+:::::: columns
+:::: {.column width="40%"}
+![](https://research.tees.ac.uk/files-asset/4132915/DisplayPhoto.jpg?w=320&f=webp){.researcher-image}
+
+::: researcher-name
+**Dr. Nikki Carthy**
+:::
+::::
+
+::: {.column width="60%"}
+This work identified a **"flourishing profile"** of students who, despite high levels of trauma exposure, had a positive academic experience. This provides a roadmap for universities to proactively foster protective factors like social support and coping skills.
+:::
+::::::
+
+::: notes
+This research represents a crucial move away from a deterministic model where trauma inevitably leads to negative outcomes.
+
+by demonstrating that a subset of students can flourish despite adversity, The implication is that institutions can play an active role in creating an environment where students who have experienced trauma are given the tools to thrive.
+:::
+
+::: footer
+Allen, S., et al. (2024). A latent profile analysis of psychosocial factors and trauma exposure in U.K. students... *Psychological Trauma: Theory, Research, Practice, and Policy*.
+:::
+
+# Fostering Wellbeing Across the Lifespan
+
+Childhood development, lifelong health, and ageing well.
+
+::: notes
+Wellbeing is a complex, multifaceted concept that encompasses physical, mental, and social health. It is influenced by a wide range of factors, including genetics, environment, lifestyle, and social connections.
+
+In a world where chronic diseases are on the rise, and mental health challenges are increasingly recognised, understanding how to foster wellbeing across the lifespan is more important than ever.
+
+There is a strong body of work in the department that is addressing wellbeing from multiple angles, from understanding the role of nutrition in cognitive development, to exploring the impact of school culture on mental health, to examining the lived experience of chronic illness.
+:::
+
+## Youth Wellbeing: School Culture {data-background-image="https://images.pexels.com/photos/1153976/pexels-photo-1153976.jpeg" data-background-opacity="0.3"}
+
+:::::: columns
+:::: {.column width="40%"}
+![](https://research.tees.ac.uk/files-asset/6577047/AHaste.png?w=320&f=webp){.researcher-image}
+
+::: researcher-name
+**Dr. Anna Haste**
+:::
+::::
+
+::: {.column width="60%"}
+Embedding Mental Health Support Teams in schools helps to "change the culture within schools to incorporate mental health as a topic within the fabric of the school."
+:::
+::::::
+
+::: notes
+This work discusses shift from a reactive model, which waits for children to be in crisis, an early intervention that normalises conversations about mental health and builds a supportive culture for all students.
+:::
+
+::: footer
+Haste, A., et al. (2025). *Mental Health and Prevention, 39*, 200435.
+:::
+
+## Lived Experience in Health: The Whole Person {data-background-image="https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg" data-background-opacity="0.3"}
+
+:::::: columns
+:::: {.column width="40%"}
+![](https://research.tees.ac.uk/files-asset/95625383/profile.jpg?w=320&f=webp){.researcher-image}
+
+::: researcher-name
+**Dr. Stephanie Kilinc**
+:::
+::::
+
+::: {.column width="60%"}
+Effective care must address the whole person, not just a condition. Research into conditions like adult-onset epilepsy encourages healthcare practitioners to look beyond medical management and consider the impact on a person's total wellbeing.
+:::
+::::::
+
+::: notes
+Dr. Kilinc's work into the lived experience of patients has led to the development of new self-management frameworks. It is a powerful reminder that a condition is something a person *has*, not who they *are*, and that effective care must address the whole person.
+:::
+
+::: footer
+Kılınç, S., Erdem, H., Healey, R., & Cole, J. (2022). Finding meaning and purpose: a framework for the self-management of neurological conditions. Disability and rehabilitation, 44(2), 219-230.
+:::
+
+## Cancer as chronic illness {data-background-image="https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg" data-background-opacity="0.3"}
+
+:::::: columns
+:::: {.column width="40%"}
+![](https://research.tees.ac.uk/files-asset/4124603/DisplayPhoto.jpg?w=320&f=webp){.researcher-image}
+
+::: researcher-name
+**Dr. Grant McGeechan**
+:::
+::::
+
+::: {.column width="60%"}
+> "this feeling of disorientation is not static and can ease as patients adjust to living with chronic uncertainty."
+:::
+::::::
+
+::: notes
+psychosocial experience of cancer survivorship as a chronic condition. The concept of "future disorientation" is a key and specific contribution of this research and should be highlighted. It captures a particular kind of existential uncertainty that goes beyond a general fear of recurrence.
+
+This created a social and psychological disconnect. Participants felt they had to perform a version of health and normality for friends, family, and even healthcare professionals, because the external world struggled to understand the ongoing, invisible work of living with cancer as a chronic illness. This work is essential for developing interventions that support patients not just medically, but also psychologically, through their cancer journey.
+:::
+
+::: footer
+McGeechan, G. J., McPherson, K. E., & Roberts, K. (2018). An interpretative phenomenological analysis of the experience of living with colorectal cancer as a chronic illness. Journal of clinical nursing, 27(15-16), 3148-3156.
+:::
+
+## The Value of Psychology and Social Work Research
+
+- Beneath environmental, political and social disruption lie fundamental human processes.
+- In a complex world, the evidence-based, but deeply human insights of this research are more essential than ever.
+- The work done at Teesside University focuses on the mechanisms that underlie these challenges and can be harnessed to create meaningful change.
+
+::: notes
+To conclude, I hope this brief overview has given you a sense of the breadth and depth of research being conducted in the Department of Psychology and Social Work at Teesside University.
+
+We can see that the work we do here is vital to understanding the complex human behaviour that underpins many of the biggest challenges we face today.
+
+I hope that this has whet your appetite to learn more about our research and to attend the seminar series in the coming months where the researchers will be presenting new work in much more detail.
+:::
+
+# Thank You {.section}

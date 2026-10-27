@@ -1,0 +1,124 @@
+/*-- scss:defaults --*/
+
+// Base font - Inter is a clean, modern, and highly readable sans-serif font.
+$font-family-sans-serif: "Inter", sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+// Colors
+$body-bg: #fdfdfd;
+$body-color: #1a1a1a;
+$link-color: #ff8f29;
+$presentation-heading-color: #06294a;
+
+/*-- scss:rules --*/
+
+// Style for the slide background image
+.reveal .slide-background-content {
+  filter: blur(2px) brightness(0.7);
+  opacity: 0.8;
+}
+
+// Ensure slide content text is aligned left for readability
+.reveal .slides {
+  text-align: left;
+}
+
+// Vertically center the content within the columns for a balanced look
+.quarto-layout-panel {
+  align-items: center;
+}
+
+// Main slide title (h2)
+.reveal h2 {
+  color: $presentation-heading-color;
+  border-bottom: 3px solid $link-color;
+  padding-bottom: 0.3em;
+  margin-bottom: 0.5em;
+  font-weight: 700;
+  font-size: 1.5em; // Custom font size for slide headings
+}
+
+// Presentation Title slide (h1)
+.reveal h1 {
+  font-size: 2.5em;
+  font-weight: 700;
+  color: $presentation-heading-color;
+  margin-bottom: 0.2em;
+}
+
+// Styling for the footer citation
+.reveal .footer {
+  position: absolute;
+  bottom: 15px;
+  left: 0px;
+  font-size: 0.2em;
+  color: rgba(0, 0, 0, 0.6);
+  padding: 5px 10px;
+  border-radius: 5px;
+  z-index: 10;
+  max-width: 100%;
+  text-align: center;
+}
+
+.reveal .slides p .footer {
+  font-size: 0.5em;
+}
+
+// Styling for the researcher's image to make it stand out
+// CORRECTED: Increased selector specificity to override RevealJS defaults
+.reveal .slides img.researcher-image {
+  border-radius: 50%;
+  border: 5px solid white;
+  box-shadow: 0 6px 12px rgba(0,0,0,0.25);
+  max-width: 80%;
+  max-height: 300px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// Blockquote style for highlighting research findings
+.reveal blockquote {
+  border-left: 5px solid $presentation-heading-color;
+  padding-left: 1.5rem;
+  font-style: italic;
+  color: #333;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.reveal p {
+  font-size: 0.95em; // Custom font size for slide body text
+}
+
+.smaller {
+  font-size: 0.8em;
+}
+
+.reveal .slides section.smaller h2 {
+    /* font-size: calc(1.6em / 0.7); */
+}
+
+.researcher-name {
+  font-weight: 700;
+  font-size: 1.2em;
+  margin-top: 0.5em;
+  text-align: center;
+  color: $body-color;
+}
+
+.reveal .columns>.column {
+margin: auto;
+}
+
+.reveal .columns {
+  gap: 1.5em;
+  
+}
+
+.reveal .columns>.column:first-child>:not(ul,ol) {
+   margin: auto;
+}

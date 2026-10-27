@@ -1,0 +1,21 @@
+---
+title: "The MIND Research Lab Zenodo Open Science Repository"
+image: "../images/zenodo.png"
+categories:
+  - news
+news-date: 2026-10-27
+---
+
+Open science is a core part our lab ethos. You might be aware that the Open Science Framework has made change to project and data storage going forward which means alternatives are needed.
+
+With this in mind, we have created a Zenodo community for the lab, which will act as the repository for data, code and other project related outputs going forward.
+
+The community can be found here: [https://zenodo.org/communities/mindresearchlab](https://zenodo.org/communities/mindresearchlab)
+
+We are currently in the process of transferring files.
+
+Zenodo is build and operated by CERN and OpenAIRE and uploads are stored in CERN’s Data Centre. Every upload to Zenodo is assigned a Digital Object Identifier (DOI), to make them citable and trackable.
+
+We will maintain the links to archived OSF projects on the lab website. Where projects cross over from OSF to Zenodo, we will provide backward and forward linking to maintain provenance. 
+
+Zenodo is primarily a data storage tool. It does not currently have pre-registration capability. As such we will operate a hybrid approach with pre-registrations on OSF and project outputs on Zenodo.
